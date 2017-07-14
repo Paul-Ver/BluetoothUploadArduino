@@ -30,3 +30,13 @@ Connecting the bluetooth device to a Windows PC can be quite bothersome.
 Coming soon...
 
 I'll re-evaluate my steps and share these.
+
+## Configure the bluetooth module
+
+## Make the hardware
+
+## Upload code
+
+## Connect to windows
+
+## Upload a program!
